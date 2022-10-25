@@ -1,0 +1,8 @@
+
+git init: crear un repositorio local de mi proyecto
+
+git config --global user.email "correo": para configurar y verificar el correo que 
+
+git status -s: me sirve para vericar el estado 
+
+git add . me sirve para agregar los archivos 
